@@ -1,0 +1,177 @@
+caferağa, bademaltı sk.17/b, 34710 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+moda cad. 123/a kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+bostancı, prof. dr. kemal akgüder cd. no:1/c, 34744 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+rasimpaşa, duatepe sk. no:32/a, 34716 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+feyzullah, bağdat cd. no: 250/a, 34843 maltepe/istanbul
+Bulunan İlçe => maltepe
+---------------------------
+rasimpaşa, duatepe sok. no:30/a kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+eski büyükdere cd. no 1, 34398 sarıyer/istanbul
+Bulunan İlçe => sarıyer
+---------------------------
+türkali, antik ap, mecit ali sk. no:14/d, 34200 beşiktaş/istanbul
+Bulunan İlçe => beşiktaş
+---------------------------
+idealtepe, bağdat cd. no:204/a, 34841 maltepe/istanbul
+Bulunan İlçe => maltepe
+---------------------------
+r.bahçe mah. cumhuriyet cad. no 75/a beykoz istanbul
+Bulunan İlçe => beykoz
+---------------------------
+caddebostan, plaj yolu süleyman usbu apartmanı no:9 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+cumhuriyet, kazım orbay cd., 34380 şişli/istanbul
+Bulunan İlçe => şişli
+---------------------------
+balmumcu, barbaros bulvarı, fuat sarp sok, no:4/b beşiktaş
+Bulunan İlçe => beşiktaş
+---------------------------
+kozyatağı, morgüi ap. cemil akdoğan sk. no:15, 34742 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+kozyatağı, bayar cd. no:20/a, 34742 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+bostancı, prof. dr. ali nihat tarlan cd 11/a, 34744 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+15 temmuz, koçman cd. no:52, 34212 bağcılar/istanbul
+Bulunan İlçe => bağcılar
+---------------------------
+ suadiye, ayşeçavuş cd no:15, 34740 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+üsküdar cad no.133 kartal
+Bulunan İlçe => kartal
+---------------------------
+tuncay artuncad.selvim sok.no.6 b reşitpaşa/sarıyer / istanbul
+Bulunan İlçe => sarıyer
+---------------------------
+acıbadem cad tekin sok tekin apt.no.25/b kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+büyükdere cad no.95/b şişli
+Bulunan İlçe => şişli
+---------------------------
+caferağa, dr. esat ışık cd. no:42/a, 34170 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+atalar, üsküdar cd. no:112 a, 34862 kartal/istanbul
+Bulunan İlçe => kartal
+---------------------------
+nisbetiye, nispetiye cd no:10 d:107, 34340 beşiktaş/istanbul
+Bulunan İlçe => beşiktaş
+---------------------------
+levazım, koru sokağı no:2, 34340 beşiktaş/istanbul
+Bulunan İlçe => beşiktaş
+---------------------------
+teşvikiye, teşvikiye cd. no:12, 34365 şişli/istanbul
+Bulunan İlçe => şişli
+---------------------------
+harbiye, kadırgalar cd. no:10, 34367 şişli/istanbul
+Bulunan İlçe => şişli
+---------------------------
+mahkemealtı cad no11 /c fatih
+Bulunan İlçe => fatih
+---------------------------
+cumhuriyet, silahşör cd., 34380 şişli/istanbul
+Bulunan İlçe => şişli
+---------------------------
+abdulhalik renda cad. begonya sk. 16/b yenimahalle pendik
+Bulunan İlçe => pendik
+---------------------------
+oramiral kemal kayacan sok no.24/b kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+baraj yolu alt sokak no.41/a üsküdar
+Bulunan İlçe => üsküdar
+---------------------------
+abdulhalik renda cad. begonya sok. 16/b yenimahalle pendik
+Bulunan İlçe => pendik
+---------------------------
+tüccarkatibi sok no.6 kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+kuştepe, mecidiyeköy yolu cd. no : 47, 34387 şişli/istanbul
+Bulunan İlçe => şişli
+---------------------------
+abidei hürriyet cad no.169 / b şişli
+Bulunan İlçe => şişli
+---------------------------
+abidei hürriyet cad. no.169 / b şişli
+Bulunan İlçe => şişli
+---------------------------
+sınanpaşa mah. şaır nedım cad.no:5 beşiktaş, 34353
+Bulunan İlçe => beşiktaş
+---------------------------
+türkali, ıhlamurdere cd. no: 178 d:179, 34357 beşiktaş/istanbul
+Bulunan İlçe => beşiktaş
+---------------------------
+konaklar, yenilevent, akasyalı sk. no:7 d:53/blok, 34330 beşiktaş/istanbul
+Bulunan İlçe => beşiktaş
+---------------------------
+atalar üsküdar cad.no.73/k istanbul/kartal
+Bulunan İlçe => kartal
+---------------------------
+buyukdere cad. no.134 şişli
+Bulunan İlçe => şişli
+---------------------------
+atalar üsküdar cad. no.73/k istanbul/kartal
+Bulunan İlçe => kartal
+---------------------------
+fenerbahçe, operatör cemil topuzlu cd. no:4/a, 34726 kadıköy/istanbul
+Bulunan İlçe => kadıköy
+---------------------------
+kordonboyu, ankara cd. no:147/6, 34860 kartal/istanbul
+Bulunan İlçe => kartal
+---------------------------
+acarlar, 9. cd. no:9, 34800 beykoz/istanbul
+Bulunan İlçe => beykoz
+---------------------------
+merkez, oğuzhan cd. no:3, 34782 çekmeköy/istanbul
+Bulunan İlçe => çekmeköy
+---------------------------
+hiltown, aydınevler, siteler yolu no:1 d:1a, 34854 maltepe/istanbul
+Bulunan İlçe => maltepe
+---------------------------
+teşvikiye vali konağı caddesi, akkavak sk. no:26, 34365 şişli
+Bulunan İlçe => şişli
+---------------------------
+raimpaşa mah misaki milli cad no.96/a kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+raimpaşa mah. misaki milli cd. no.96/a kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+fahrettin kerim gökay cad damak sok no.7/3 kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+fahrettin kerim gökay cd damak sk. no.7/3 kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+sahrayicedit mah tüccarbaşı sok no.15/a kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+sahrayicedit mah. tüccarbaşı sk. no.15/a kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+sahrayıcedid mah şehit ilhanlar sokak kısmet apt. no.5/a kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+sahrayıcedid mah. şehit ilhanlar sk. kısmet apt. no.5/a kadıköy
+Bulunan İlçe => kadıköy
+---------------------------
+sahrayicedit mah atatürk cad kahraman apt. no.24/b kadıköy
+Bulunan İlçe => kadıköy
+---------------------------

@@ -1,4 +1,0 @@
-Bulunan mahalle ve ilçeler 255 / 754
-Sadece bulunan mahalleler 362 / 754
-Sadece bulunan ilçeler 59 / 754
-Bulunamayanlar 78 / 754

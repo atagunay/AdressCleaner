@@ -1002,3 +1002,19 @@ suadiye mah. hakim kemal sk no3/c kadıköy
 Bulunan Mahalle => suadiye
 Bulunan İlçe => kadıköy
 ---------------------------
+19 mayıs mah okur sok sen apt no.20/a kadıköy
+Bulunan Mahalle => 19 mayıs
+Bulunan İlçe => kadıköy
+---------------------------
+19 mayıs mah okur sk. sen apt no.20/a kadıköy
+Bulunan Mahalle => 19 mayıs
+Bulunan İlçe => kadıköy
+---------------------------
+feneryolu mah mazhar osman sok özmutlu apt. no.4 kadıköy
+Bulunan Mahalle => feneryolu
+Bulunan İlçe => kadıköy
+---------------------------
+feneryolu mah.mazhar osman sk. özmutlu apt. no.4 kadıköy
+Bulunan Mahalle => feneryolu
+Bulunan İlçe => kadıköy
+---------------------------

@@ -1081,3 +1081,6 @@ Bulunan Mahalle => çengelköy
 cevizli mah. tugay yolu cd. no
 Bulunan Mahalle => cevizli
 ---------------------------
+soğanlı mah. umut cd. no
+Bulunan Mahalle => soğanlı
+---------------------------
